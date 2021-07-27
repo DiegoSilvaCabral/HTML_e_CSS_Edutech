@@ -1,0 +1,113 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+
+header {
+	background: #BBBBBB;
+	padding: 20px 0;
+}
+
+nav li {
+	display: inline;
+	margin: 0 0 0 15px;
+}
+
+nav a {
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: #AFEEEE;
+	text-decoration: underline;
+}
+
+nav a:active {
+	color: #00FFFF;
+}
+
+.box {
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
+}
+
+nav {
+	position: absolute;
+	top: 110px;
+	right: 0;
+}
+
+main {
+	width: 940px;
+	margin: 0 auto;
+}
+
+form {
+	margin: 40px 0;
+}
+
+form label, form legend {
+	font-size: 20px;
+	display: block;
+	margin: 0 0 10px;
+}
+
+.input_padrao {
+	display: block;
+	margin: 0 0 20px;
+	padding: 10px;
+	width: 50%;
+}
+
+.checkbox {
+	margin: 20px 0;
+}
+
+.enviar {
+	width: 50%;
+	padding: 10px;
+	font-size: 18px;
+	background: #B0C4DE;
+	text-transform: uppercase;
+	font-weight: bold;
+	border-radius: 10px;
+	transition: 0.5s all;
+}
+
+.enviar:hover {
+	font-size: 22px;
+	background: #ADD8E6;
+	cursor: pointer;
+	transform: scale(1.05);
+}
+
+table {
+	margin: 20px 0 40px;
+}
+
+thead {
+	background: #4682B4;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+
+td , th {
+	border: 1px solid #000000;
+	padding: 10px 90px;
+}
+
+footer {
+	text-align: center;
+	background: url("img/bg.jpg");
+	padding: 40px;
+}
+
+.copyright{
+	color: #FFFFFF;
+	font-size: 13px;
+	margin: 20px;
+}z

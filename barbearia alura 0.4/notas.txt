@@ -1,0 +1,1 @@
+para o bom funcionamento do site é recomendável que você baixe todos os arquivos e coloque todos na mesma pasta. (a pasta 'img' deve estar no mesmo diretório com todos os seus arquivos lá dentro.)
